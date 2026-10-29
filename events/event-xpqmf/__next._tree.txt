@@ -1,0 +1,6 @@
+:HL["/_next/static/css/63c9ef5a634a11b8.css","style"]
+:HL["https://bj.bcebos.com/v1/ai-studio-match/file/fc864ab72211491b88892a636cc6ef7450b71aa51cd143afb6a927076b4057ff?authorization=bce-auth-v1%2FALTAKzReLNvew3ySINYJ0fuAMN%2F2025-10-14T04%3A55%3A09Z%2F-1%2F%2F7a8fab2a530608e211b8f36eb93a4b0963e11843aed558e2f1cb2d4f1d553dd5","image"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"event-xpqmf","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"events","h":64,"c":"$Q2"}]]
+0:{"b":"7vJS6b6llO7hYsKjMazNi","t":{"t":{"s":"","h":20,"c":"$Q1"}}}

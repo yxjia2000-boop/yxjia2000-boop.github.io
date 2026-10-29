@@ -1,0 +1,6 @@
+:HL["/_next/static/css/63c9ef5a634a11b8.css","style"]
+4:[["children",{"s":"__PAGE__","h":160}]]
+3:[["children",{"s":{"n":"slug","t":"d","k":"community-3d-printer","s":[]},"h":96,"c":"$Q4"}]]
+2:[["children",{"s":"idea","h":96,"c":"$Q3"}]]
+1:[["children",{"s":"community","h":64,"c":"$Q2"}]]
+0:{"b":"7vJS6b6llO7hYsKjMazNi","t":{"t":{"s":"","h":20,"c":"$Q1"}}}

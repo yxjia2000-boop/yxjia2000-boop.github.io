@@ -1,0 +1,6 @@
+:HL["/_next/static/css/63c9ef5a634a11b8.css","style"]
+:HL["https://www.aibetas.com/wp-content/uploads/2026/10/zhangzhou_ai_short_video_competition_2026_cover.png","image"]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"slug","t":"d","k":"event-ai-ai-c01sd","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"events","h":64,"c":"$Q2"}]]
+0:{"b":"7vJS6b6llO7hYsKjMazNi","t":{"t":{"s":"","h":20,"c":"$Q1"}}}
